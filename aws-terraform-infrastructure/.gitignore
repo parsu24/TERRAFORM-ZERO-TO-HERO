@@ -1,0 +1,29 @@
+
+# Terraform working directory
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+terraform.tfstate.backup
+
+# Variable files
+*.tfvars
+!example.tfvars
+
+# Terraform plan files
+*.tfplan
+
+# Private keys
+keys/aws-terraform-key
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Editor
+.vscode/
