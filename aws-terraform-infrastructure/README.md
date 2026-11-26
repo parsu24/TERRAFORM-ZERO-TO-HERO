@@ -1,6 +1,6 @@
 ## Architecture
 
-![AWS Terraform Infrastructure Architecture](docs/architecture.png)
+![AWS Terraform Infrastructure Architecture](docs/AWS Architecture and Terraform Workflow.png)
 
 # AWS Infrastructure Provisioning with Terraform
 
